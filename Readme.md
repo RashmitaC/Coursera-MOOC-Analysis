@@ -3,13 +3,13 @@
 ## Objective
 
 Coursera has been an integral part of my academic life as being in an engineering college, it is all about the fear-of-mising-out enough skill development. Coursera proved to be a go-to as it has a plethora of different courses from so many different fields and backgrounds. In April 2020, Coursera collaborated with the Entrepreneurship Cell of NIT Agartala to provide access to 4000+ different free courses with certificates for 6 months, making it such a crazy opportunity to grab as much skills and knowledge as possible. Since then, I have grown even more fascinated and attached to this platform, having completed over 35 courses in different areas of interest. Hereby, I decided to make an analysis of this platform regarding the courses, certifications, universities, etc. it has to provide.
-Check out the project [here]. (https://github.com/RashmitaC/Coursera-MOOC-Data-Analysis/blob/main/Coursera-MOOC-Data-Analysis.ipynb)
+<br/>Check out the project [here](https://github.com/RashmitaC/Coursera-MOOC-Data-Analysis/blob/main/Coursera-MOOC-Data-Analysis.ipynb)
 
 
 ## About the dataset
 
 Coursera is the largest massive open online course (MOOC) provider in the world and hosts many courses from top universities in different subjects. The data has been collected from Kaggle which has been taken from 1.45 million course reviews posted by students and participants on the platform. 
-Link to dataset: [Here] (https://github.com/RashmitaC/Coursera-MOOC-Data-Analysis/blob/main/Data/Coursera_MOOC-Dataset.csv)
+<br/>Link to dataset: [here](https://github.com/RashmitaC/Coursera-MOOC-Data-Analysis/blob/main/Data/Coursera_MOOC-Dataset.csv)
 
 Course dataset scrapped from Coursera website. This dataset contains mainly 6 columns and 890 course data. The detailed description:
 
