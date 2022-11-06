@@ -3,25 +3,23 @@
 ## Objective
 
 Coursera has been an integral part of my academic life as being in an engineering college, it is all about the fear-of-mising-out enough skill development. Coursera proved to be a go-to as it has a plethora of different courses from so many different fields and backgrounds. In April 2020, Coursera collaborated with the Entrepreneurship Cell of NIT Agartala to provide access to 4000+ different free courses with certificates for 6 months, making it such a crazy opportunity to grab as much skills and knowledge as possible. Since then, I have grown even more fascinated and attached to this platform, having completed over 35 courses in different areas of interest. Hereby, I decided to make an analysis of this platform regarding the courses, certifications, universities, etc. it has to provide.
-Check out the project [here]. ()
+Check out the project [here]. (https://github.com/RashmitaC/Coursera-MOOC-Data-Analysis/blob/main/Coursera-MOOC-Data-Analysis.ipynb)
 
-<br/>
 
 ## About the dataset
 
 Coursera is the largest massive open online course (MOOC) provider in the world and hosts many courses from top universities in different subjects. The data has been collected from Kaggle which has been taken from 1.45 million course reviews posted by students and participants on the platform. 
-Link to dataset: [Kaggle] ()
+Link to dataset: [Here] (https://github.com/RashmitaC/Coursera-MOOC-Data-Analysis/blob/main/Data/Coursera_MOOC-Dataset.csv)
 
 Course dataset scrapped from Coursera website. This dataset contains mainly 6 columns and 890 course data. The detailed description:
 
-1. course_title : Contains the course title.
-2. course_organization : It tells which organization is conducting the courses.
-3. courseCertificatetype : It has details about what are the different certifications available in courses.
-4. course_rating : It has the ratings associated with each course.
-5. course_difficulty : It tells about how difficult or what is the level of the course.
-6. coursestudentsenrolled : It has the number of students that are enrolled in the course.
+* course_title : Contains the course title.
+* course_organization : It tells which organization is conducting the courses.
+* courseCertificatetype : It has details about what are the different certifications available in courses.
+* course_rating : It has the ratings associated with each course.
+* course_difficulty : It tells about how difficult or what is the level of the course.
+* coursestudentsenrolled : It has the number of students that are enrolled in the course.
 
-<br/>
 
 ## Conclusion
 
